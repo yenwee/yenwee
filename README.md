@@ -8,6 +8,3 @@
 
 - 📫 Linkedin: https://www.linkedin.com/in/yen-wee-lim-b223551ab/
 
--------- Projects Section Begin Here -----------
-1) Store Sales - Time Series Forecasting
-
